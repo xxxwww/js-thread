@@ -1,2 +1,3 @@
-# js-thread
-JS Thread
+- [Часто задаваемые вопросы]()
+- [Материалы для изучения]()
+- [Архив тредов](https://github.com/xxxwww/js-thread/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%B2-%D1%82%D1%80%D0%B5%D0%B4%D0%BE%D0%B2)
