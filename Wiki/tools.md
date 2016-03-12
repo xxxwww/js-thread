@@ -38,6 +38,7 @@
 [Harp](https://www.google.com/search?q=Harp), 
 [Brunch](https://www.google.com/search?q=Brunch)
 * **Бесплатные хостинги:** 
+[Modulus.io](https://www.google.com/search?q=Modulus.io), 
 [OpenShift](https://www.google.com/search?q=OpenShift), 
 [Heroku](https://www.google.com/search?q=Heroku)
 * **IDE/редактор:** 
