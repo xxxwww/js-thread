@@ -1,3 +1,4 @@
-- [Часто задаваемые вопросы]()
-- [Материалы для изучения]()
+- [Часто задаваемые вопросы](https://github.com/xxxwww/js-thread/blob/master/Wiki/faq.md)
+- [Материалы для изучения](https://github.com/xxxwww/js-thread/blob/master/Wiki/learn.md)
+- [Список инструментов](https://github.com/xxxwww/js-thread/blob/master/Wiki/tools.md)
 - [Архив тредов](https://github.com/xxxwww/js-thread/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%B2-%D1%82%D1%80%D0%B5%D0%B4%D0%BE%D0%B2)
