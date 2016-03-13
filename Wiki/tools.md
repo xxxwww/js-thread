@@ -1,47 +1,58 @@
 #### Список инструментов для различных целей
 * **Front-end:** 
-[jQuery](https://www.google.com/search?q=jQuery), 
-[Angular](https://www.google.com/search?q=Angular), 
-[React](https://www.google.com/search?q=React), 
-[Backbone](https://www.google.com/search?q=Backbone), 
-[Meteor](https://www.google.com/search?q=)
+[jQuery](https://jquery.com/), 
+[Angular](https://angularjs.org/), 
+[React](https://facebook.github.io/react/), 
+[Backbone](http://backbonejs.org/)([ru](http://backbonejs.ru/)), 
+[Meteor](https://www.meteor.com/) ([ru](http://docs.meteor.com.ru/))
 * **Back-end:** 
-[Node.js](https://www.google.com/search?q=Node.js), 
-[Express](https://www.google.com/search?q=Express), 
-[Koa](https://www.google.com/search?q=Koa), 
-[Sails](https://www.google.com/search?q=Sails)
+[Node.js](https://nodejs.org/)([ru](http://node-center.ru/)), 
+[Express](http://expressjs.com/), 
+[Koa](http://koajs.com/), 
+[Sails](http://sailsjs.org/)
 * **Десктопные приложения:** 
-[NW.js](https://www.google.com/search?q=NW.js), 
-[Electron](https://www.google.com/search?q=Electron), 
-[WinJS](https://www.google.com/search?q=WinJS)
+[NW.js](http://nwjs.io/), 
+[Electron](http://electron.atom.io/), 
+[WinJS](http://try.buildwinjs.com/)
 * **Мобильные приложения:** 
-[Cordova](https://www.google.com/search?q=Cordova), 
-[NativeScript](https://www.google.com/search?q=NativeScript), 
-[Phonegap](https://www.google.com/search?q=Phonegap), 
-[Ionic](https://www.google.com/search?q=Ionic)
+[Cordova](https://cordova.apache.org/), 
+[NativeScript](https://www.nativescript.org/), 
+[Phonegap](http://phonegap.com/), 
+[Ionic](http://ionicframework.com/)
 * **GameDev:** 
-[Phaser](https://www.google.com/search?q=Phaser), 
-[Cocos](https://www.google.com/search?q=Cocos), 
-[Pixi](https://www.google.com/search?q=Pixi), 
-[Unity](https://www.google.com/search?q=Unity)
+[Phaser](http://phaser.io/), 
+[Cocos](http://www.cocos2d-x.org/), 
+[Pixi](http://www.pixijs.com/), 
+[Unity](https://unity3d.com/ru)
 * **Тестирование:**
-[Mocha](https://www.google.com/search?q=Mocha), 
-[Chai](https://www.google.com/search?q=Chai), 
-[Jasmin](https://www.google.com/search?q=Jasmin), 
-[Sinon](https://www.google.com/search?q=Sinon)
+[Mocha](https://mochajs.org/), 
+[Chai](http://chaijs.com/), 
+[Jasmine](http://jasmine.github.io/), 
+[Sinon](http://sinonjs.org/)
 * **Continuous Integration:** 
-[Semaphore](https://www.google.com/search?q=Semaphore), 
-[Shippable](https://www.google.com/search?q=Shippable)
+[Semaphore](https://semaphoreci.com/), 
+[Shippable](https://app.shippable.com/)
+* **Auto deploy:**
+[Sanelotto](http://sanelotto.info/),
+[Fabric](http://www.fabfile.org/),
+[Capistrano](http://capistranorb.com/)
+* **CMS:**
+[KeystoneJS](http://keystonejs.com/),
+[PencilBlue](https://pencilblue.org/),
+[Apostrophe](http://apostrophenow.org/)
 * **Генераторы статичных сайтов:** 
-[DocPad](https://www.google.com/search?q=DocPad), 
-[Metalsmith](https://www.google.com/search?q=Metalsmith), 
-[Harp](https://www.google.com/search?q=Harp), 
-[Brunch](https://www.google.com/search?q=Brunch)
+[DocPad](http://docpad.org/), 
+[Metalsmith](http://www.metalsmith.io/), 
+[Harp](http://harpjs.com/), 
+[Brunch](http://brunch.io/)
+* **Imageboard engine:**
+[Hanako](http://hanako-imageboard.rhcloud.com/),
+[Doushio](https://github.com/lalcmellkmal/doushio),
+[live4chan](https://github.com/emgram769/live4chan)
 * **Бесплатные хостинги:** 
-[Modulus.io](https://www.google.com/search?q=Modulus.io), 
-[OpenShift](https://www.google.com/search?q=OpenShift), 
-[Heroku](https://www.google.com/search?q=Heroku)
+[OpenShift](https://www.openshift.com), 
+[Heroku](https://www.heroku.com/)
 * **IDE/редактор:** 
-[WebStorm](https://www.google.com/search?q=WebStorm), 
-[Atom](https://www.google.com/search?q=Atom), 
-[Brackets](https://www.google.com/search?q=Brackets)
+[WebStorm](https://www.jetbrains.com/webstorm/), 
+[Atom](https://atom.io/), 
+[Brackets](http://brackets.io/)
