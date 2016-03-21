@@ -9,6 +9,9 @@ https://github.com/xxxwww/js-thread/blob/master/Wiki/faq.md
 Список материалов для изучения:
 https://github.com/xxxwww/js-thread/blob/master/Wiki/learn.md
 
+Список инструментов и направления JS-разработки:
+https://github.com/xxxwww/js-thread/blob/master/Wiki/tools.md
+
 **НЕ КОПИРУЙ КОД ПРЯМО В ТРЕД!** 
 Воспользуйтесь https://jsbin.com/ для браузерного кода и https://ideone.com/ для серверного кода.
 ```
