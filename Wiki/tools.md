@@ -9,37 +9,45 @@
 [Node.js](https://nodejs.org/)([ru](http://node-center.ru/)), 
 [Express](http://expressjs.com/), 
 [Koa](http://koajs.com/), 
-[Sails](http://sailsjs.org/)
+[Sails](http://sailsjs.org/),
+[Total](https://www.totaljs.com/),
+[Strapi](http://strapi.io/),
+[Hapi](http://hapijs.com/)
 * **Десктопные приложения:** 
 [NW.js](http://nwjs.io/), 
 [Electron](http://electron.atom.io/), 
 [WinJS](http://try.buildwinjs.com/)
 * **Мобильные приложения:** 
 [Cordova](https://cordova.apache.org/), 
-[NativeScript](https://www.nativescript.org/), 
+[NativeScript](https://www.nativescript.org/),
+[React Native](http://www.reactnative.com/), 
 [Phonegap](http://phonegap.com/), 
 [Ionic](http://ionicframework.com/)
 * **GameDev:** 
 [Phaser](http://phaser.io/), 
 [Cocos](http://www.cocos2d-x.org/), 
 [Pixi](http://www.pixijs.com/), 
-[Unity](https://unity3d.com/ru)
+[Unity](https://unity3d.com/ru/),
+[Atomic Game Engine](http://atomicgameengine.com/)
 * **Тестирование:**
 [Mocha](https://mochajs.org/), 
 [Chai](http://chaijs.com/), 
 [Jasmine](http://jasmine.github.io/), 
-[Sinon](http://sinonjs.org/)
+[Sinon](http://sinonjs.org/),
+[Karma](https://karma-runner.github.io/)
 * **Continuous Integration:** 
 [Semaphore](https://semaphoreci.com/), 
 [Shippable](https://app.shippable.com/)
 * **Auto deploy:**
 [Sanelotto](http://sanelotto.info/),
+[ShipIt](https://github.com/shipitjs/shipit/),
 [Fabric](http://www.fabfile.org/),
 [Capistrano](http://capistranorb.com/)
 * **CMS:**
 [KeystoneJS](http://keystonejs.com/),
 [PencilBlue](https://pencilblue.org/),
-[Apostrophe](http://apostrophenow.org/)
+[Apostrophe](http://apostrophenow.org/),
+[Ghost](https://ghost.org/)
 * **Генераторы статичных сайтов:** 
 [DocPad](http://docpad.org/), 
 [Metalsmith](http://www.metalsmith.io/), 
