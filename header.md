@@ -12,6 +12,9 @@ https://github.com/xxxwww/js-thread/blob/master/Wiki/learn.md
 Список инструментов и направления JS-разработки:
 https://github.com/xxxwww/js-thread/blob/master/Wiki/tools.md
 
+Конфа /pr/ с активным JavaScript-каналом:
+https://invite-me-to-2chpr.herokuapp.com/
+
 **НЕ КОПИРУЙ КОД ПРЯМО В ТРЕД!** 
 Воспользуйтесь https://jsfiddle.net/ для браузерного кода и https://ideone.com/ для серверного кода.
 ```
