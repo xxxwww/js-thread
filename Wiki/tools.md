@@ -65,6 +65,6 @@
 [Atom](https://atom.io/), 
 [Brackets](http://brackets.io/)
 * **Task-runner:** 
-[Gulp](http://gulpjs.com/)
-[Grunt](http://gruntjs.com/)
+[Gulp](http://gulpjs.com/),
+[Grunt](http://gruntjs.com/),
 [Broccoli](https://github.com/broccolijs/broccoli)
