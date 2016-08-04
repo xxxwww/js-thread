@@ -48,6 +48,64 @@
 - [jstherightway.org](http://www.jstherightway.org/) - Огромный англоязычный гайд. Есть книги, статьи, список фреймворков и многое другое. По сути, этот текст - краткий аналог этого гайда.
 - [nodeguide.ru](http://nodeguide.ru) - Большое количество переведённых статей по Node.js
 
+## Ютуб каналы
+### Блоги  
+- [WebDesign](https://www.youtube.com/user/uwebdesign) 
+- [Ilya Kantor](https://www.youtube.com/user/iliakan)
+- [Master-CSS](https://www.youtube.com/user/TheSWAT727)
+- [Magisters](https://www.youtube.com/user/WebMagistersRu)
+- [WebDesign Master](https://www.youtube.com/user/agragregra)
+- [webtheory](https://www.youtube.com/user/WebTheory)
+- [Уроки веб-разработки](https://www.youtube.com/channel/UCHHw70vvbfyM6xJQoV8U-Pw)
+- [WPRUSe](https://www.youtube.com/user/wpdummy13)
+- [Artem Demo](https://www.youtube.com/user/artemdemo)
+- [AutoLineX](https://www.youtube.com/user/IllyaLoshek)
+- [CMTV [IT науки]](https://www.youtube.com/user/Petr19980422)
+- [Codecourse](https://www.youtube.com/user/phpacademy)
+- [Hexlet](https://www.youtube.com/user/HexletUniversity)
+- [ITVDN](https://www.youtube.com/user/CBSystematicsTV)
+- [knowcity](https://www.youtube.com/user/ecroFeGushKa)
+- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
+- [loftblog](https://www.youtube.com/user/loftblog)
+- [Ocode](https://www.youtube.com/user/easygamedev)
+- [Petr Bafloker](https://www.youtube.com/user/InterGou/featured)
+- [ProDevZone](https://www.youtube.com/channel/UCBL_E1kwxLyZIPzYElTjXsQ)
+- [Radik Fattakhov](https://www.youtube.com/user/radikft)
+- [Russian WordPress Developer](https://www.youtube.com/user/CRIK0VA)
+- [Victor Zinchenko](https://www.youtube.com/user/TheLukesky1)
+- [WebMarik](https://www.youtube.com/user/jquerymobilerussia)
+- [Создание сайтов. Maxtop.org](https://www.youtube.com/user/InfobiznesMaxtop)
+
+### Конференции  
+- [404fest](https://www.youtube.com/user/404fest/featured)
+- [DEVCLUB.EU](https://www.youtube.com/channel/UCLq7vcHtwDtx4m9ZUrgxEBA)
+- [FrontendDevConf](https://www.youtube.com/user/FrontendDevConf)
+- [GeeksLab](https://www.youtube.com/user/GeeksLabVideo)
+- [ITmozg.ru](https://www.youtube.com/user/ITmozgChannel)
+- [OdessaJS Conference](https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg)
+- [Веб-стандарты](https://www.youtube.com/user/wstdays)
+- [Фронтенд](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ)
+- [MoscowJS](https://www.youtube.com/channel/UCIo6TsJzLVRGbRZxKzoNeFQ)
+- [Веб-стандарты](https://www.youtube.com/channel/UCY35dlJe-V5J_IqzU-XksAg)
+- [DEVCLUB.EU](https://www.youtube.com/channel/UCLq7vcHtwDtx4m9ZUrgxEBA)
+- [Айти-Событие](https://www.youtube.com/channel/UCIx_9YpbAcFouJ60Il4T3wA)
+- [IT ШКОЛА SAMSUNG](https://www.youtube.com/channel/UCeXayKzDFcPaGunm1Vwto6w)
+- [Яндекс: Разработка](https://www.youtube.com/channel/UCNuItlOR3qXZBtMRwb4GoBg)
+- [Яндекс: Фронтенд](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ)
+- [Яндекс: Управление проектами](https://www.youtube.com/channel/UCQmAuu6V3kSzdIfrszr5iKg)
+- [Яндекс: Системное администрирование](https://www.youtube.com/channel/UCkufieG4LoGkHNOGrgMx3Vg)
+- [Яндекс: Компьютерные науки](https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA)
+- [Академия Яндекса](https://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ)
+- [NextCastle Party](https://www.youtube.com/channel/UC7hic0z-nDEjnJF8aWdetZA)
+
+### Разное  
+- [GetDevNET](https://www.youtube.com/user/GetDevNET)
+- [Образовательный IT-портал GeekBrains](https://www.youtube.com/user/progliveru)
+- [WEB iT [xaver.ru]](https://www.youtube.com/channel/UC4vsJ5PMS3qNN61ORVL05og)
+- [Роман Левищенко](https://www.youtube.com/user/index0h/featured)
+- [SiteHere](https://www.youtube.com/channel/UCHSd-WLHv9qLoALjUIlb5zw)
+
+
 ## Блоги и новостные ленты
 - [dailyjs.com](http://dailyjs.com/) - DailyJS
 - [weblog.bocoup.com](http://weblog.bocoup.com/) - Bocoup Weblog
