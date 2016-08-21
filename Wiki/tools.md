@@ -72,18 +72,244 @@
 ## Более полные списки инструментов для различных целей
 ### — [Awesome Javascript](https://github.com/sorrycc/awesome-javascript/blob/master/README.md)
 Список библиотек для браузерного Javascript
+<details> 
+  <summary>Содержание</summary>
+  * [Package Managers](#package-managers)
+  * [Loaders](#loaders)
+  * [Bundlers](#bundlers)
+  * [Testing Frameworks](#testing-frameworks)
+  * [QA Tools](#qa-tools)
+  * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
+  * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
+  * [Templating Engines](#templating-engines)
+  * [Articles/Posts](#articles-and-posts)
+  * [Data Visualization](#data-visualization)
+    * [Timeline](#timeline)
+    * [Spreadsheet](#spreadsheet)
+  * [Editors](#editors)
+  * [Documentation](#documentation)
+  * Utilities
+    * [Files](#files)
+    * [Functional Programming](#functional-programming)
+    * [Reactive Programming](#reactive-programming)
+    * [Data Structure](#data-structure)
+    * [Date](#date)
+    * [String](#string)
+    * [Number](#number)
+    * [Storage](#storage)
+    * [Color](#color)
+    * [I18n And L10n](#i18n-and-l10n)
+    * [Class](#class)
+    * [Control Flow](#control-flow)
+    * [Routing](#routing)
+    * [Security](#security)
+    * [Log](#log)
+    * [RegExp](#regexp)
+    * [Media](#media)
+    * [Voice Command](#voice-command)
+    * [API](#api)
+    * [Streaming](#streaming)
+    * [Vision Detection](#vision-detection)
+    * [Browser Detection](#browser-detection)
+    * [Benchmark](#benchmark)
+    * [Machine Learning](#machine-learning)
+  * UI
+    * [Code Highlighting](#code-highlighting)
+    * [Loading Status](#loading-status)
+    * [Validation](#validation)
+    * [Keyboard Wrappers](#keyboard-wrappers)
+    * [Tours And Guides](#tours-and-guides)
+    * [Notifications](#notifications)
+    * [Sliders](#sliders)
+    * [Range Sliders](#range-sliders)
+    * [Form Widgets](#form-widgets)
+    * [Tips](#tips)
+    * [Modals and Popups](#modals-and-popups)
+    * [Scroll](#scroll)
+    * [Menu](#menu)
+    * [Table/Grid](#tablegrid)
+    * [Frameworks](#frameworks-1)
+    * [Boilerplates](#boilerplates)
+  * [Gesture](#gesture)
+  * [Maps](#maps)
+  * [Typography](#typography)
+  * [Animations](#animations)
+  * [Image processing](#image-processing)
+  * [ES6](#es6)
+  * [SDK](#sdk)
+  * [Misc](#misc)
+  * [Podcasts](#podcasts)
+</details>
   
 ### — [Awesome Node](https://github.com/sindresorhus/awesome-nodejs/blob/master/readme.md)  
 Список библиотек для серверного Javascript
+<details> 
+  <summary>Содержание</summary>
+  - [Packages](#packages)
+  	- [Mad science](#mad-science)
+  	- [Command-line apps](#command-line-apps)
+  	- [Functional programming](#functional-programming)
+  	- [HTTP](#http)
+  	- [Debugging / Profiling](#debugging--profiling)
+  	- [Logging](#logging)
+  	- [Command-line utilities](#command-line-utilities)
+  	- [Build tools](#build-tools)
+  	- [Hardware](#hardware)
+  	- [Templating](#templating)
+  	- [Web frameworks](#web-frameworks)
+  	- [Documentation](#documentation)
+  	- [Filesystem](#filesystem)
+  	- [Control flow](#control-flow)
+  	- [Streams](#streams)
+  	- [Real-time](#real-time)
+  	- [Image](#image)
+  	- [Text](#text)
+  	- [Number](#number)
+  	- [Math](#math)
+  	- [Date](#date)
+  	- [URL](#url)
+  	- [Data validation](#data-validation)
+  	- [Parsing](#parsing)
+  	- [Humanize](#humanize)
+  	- [Compression](#compression)
+  	- [Network](#network)
+  	- [Database](#database)
+  	- [Testing](#testing)
+  	- [Security](#security)
+  	- [Benchmarking](#benchmarking)
+  	- [Minifiers](#minifiers)
+  	- [Authentication](#authentication)
+  	- [Email](#email)
+  	- [Job queues](#job-queues)
+  	- [Node.js management](#nodejs-management)
+  	- [Polyfills](#polyfills)
+  	- [Natural language processing](#natural-language-processing)
+  	- [Process management](#process-management)
+  	- [Automation](#automation)
+  	- [AST](#ast)
+  	- [Static site generators](#static-site-generators)
+  	- [Content management systems](#content-management-systems)
+  	- [Forum](#forum)
+  	- [Blogging](#blogging)
+  	- [Weird](#weird)
+  	- [Miscellaneous](#miscellaneous)
+  - [Resources](#resources)
+  	- [Tutorials](#tutorials)
+  	- [Discovery](#discovery)
+  	- [Articles](#articles)
+  	- [Newsletters](#newsletters)
+  	- [Videos](#videos)
+  	- [Podcasts](#podcasts)
+  	- [Books](#books)
+  	- [Blogs](#blogs)
+  	- [Courses](#courses)
+  	- [Cheatsheets](#cheatsheets)
+  	- [Tools](#tools)
+  	- [Community](#community)
+  	- [Miscellaneous](#miscellaneous)
+</details>
   
 ### — [JS Wiki](https://github.com/bebraw/jswiki/wiki)  
 Большой список библиотек для Javascript
+<details> 
+  <summary>Содержание</summary>
+  - Animation libraries
+  - Application Frameworks
+  - Async Control Flow Event Libraries
+  - Audio libraries
+  - Beginner's Resources
+  - Boilerplates
+  - Build utilities
+  - Canvas wrappers
+  - Class system
+  - Code editors
+  - Code protection
+  - Color libraries
+  - Data structures
+  - Date libraries
+  - Debugging Tools
+  - Documentation Tools
+  - Dom
+  - File Formats
+  - Functional programming
+  - Game engine feature matrix
+  - Game Engines
+  - Game resources
+  - Html5 Applications
+  - I18n and l10n
+  - Image manipulation
+  - Keyboard wrappers
+  - Live coding Tools
+  - Loaders
+  - Mapping libraries
+  - Math libraries
+  - Meta
+  - Mobile frameworks
+  - Mvc frameworks
+  - Mvvm frameworks
+  - Node.js
+  - Notifications
+  - Package managers
+  - Parallax
+  - Physics libraries
+  - Presentation libraries
+  - Ringo.js
+  - Routing
+  - Scene graphs
+  - Selector libraries
+  - ServerSide libraries
+  - Session
+  - Storage libraries
+  - Strings
+  - SVG libraries
+  - Templating engines
+  - test
+  - test page
+  - Testing frameworks
+  - Timing
+  - Toolkits
+  - Touch
+  - Ui libraries
+  - Visualization libraries
+  - WebGL
+  - WYSIWYG editors
+
+</details>
   
 ### — [MicroJS.com](http://microjs.com/)  
 Список микробиблиотек
   
 ### — [Javascripting.com](http://www.javascripting.com/)  
 Список с сортировкой на основе метрик гитхаба
+<details> 
+  <summary>Содержание</summary>
+  - Animation
+  - Application Tools
+    - Frameworks
+    - Loaders
+    - Templating
+    - Utilities
+  - Audio
+  - Development Aids
+  - Dom
+    - Frameworks
+    - Utilities
+  - Forms
+  - Games
+  - Helpers
+    - Cross Browser
+    - Object Extends
+  - Images
+    - Sliders and Displays
+    - 2D Graphics
+    - 3D Graphics
+  - Data
+  - Mobile and Touch
+  - Typography
+  - User Interface
+  - Video
+  - Miscellaneous
+</details>
   
 ### — [Трендовые фронтенд-фреймворки](https://github.com/showcases/front-end-javascript-frameworks)  
 Список от гитхаба на основе его метрик
