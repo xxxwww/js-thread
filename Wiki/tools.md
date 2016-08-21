@@ -70,5 +70,21 @@
 [Broccoli](https://github.com/broccolijs/broccoli)
 
 ## Более полные списки инструментов для различных целей
-### - [Для браузерного JavaScript](https://github.com/sorrycc/awesome-javascript/blob/master/README.md)  
-### - [Для Node.JS](https://github.com/sindresorhus/awesome-nodejs/blob/master/readme.md)  
+### — [Awesome Javascript](https://github.com/sorrycc/awesome-javascript/blob/master/README.md)
+Список библиотек для браузерного Javascript
+  
+### — [Awesome Node](https://github.com/sindresorhus/awesome-nodejs/blob/master/readme.md)  
+Список библиотек для серверного Javascript
+  
+### — [JS Wiki](https://github.com/bebraw/jswiki/wiki)  
+Большой список библиотек для Javascript
+  
+### — [MicroJS.com](http://microjs.com/)  
+Список микробиблиотек
+  
+### — [Javascripting.com](http://www.javascripting.com/)  
+Список с сортировкой на основе метрик гитхаба
+  
+### — [Трендовые фронтенд-фреймворки](https://github.com/showcases/front-end-javascript-frameworks)  
+Список от гитхаба на основе его метрик
+  
