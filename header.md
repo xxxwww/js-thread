@@ -15,9 +15,6 @@ https://github.com/xxxwww/js-thread/blob/master/Wiki/tools.md
 JS-конфа в телеграме:
 https://telegram.me/jsthread
 
-Конфа /pr/ с активным JavaScript-каналом в Slack:
-https://invite-me-to-2chpr.herokuapp.com/
-
 **НЕ КОПИРУЙ КОД ПРЯМО В ТРЕД!** 
 Воспользуйтесь https://jsfiddle.net/ для браузерного кода и https://ideone.com/ для серверного кода.
 ```
