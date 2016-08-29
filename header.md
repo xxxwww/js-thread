@@ -12,6 +12,9 @@ https://github.com/xxxwww/js-thread/blob/master/Wiki/learn.md
 Список инструментов и направления JS-разработки:
 https://github.com/xxxwww/js-thread/blob/master/Wiki/tools.md
 
+Конфа /pr/ с активным JavaScript-каналом в Slack:
+https://invite-me-to-2chpr.herokuapp.com/
+
 JS-конфа в телеграме:
 https://telegram.me/jsthread
 
