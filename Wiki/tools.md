@@ -63,7 +63,8 @@
 * **IDE/редактор:** 
 [WebStorm](https://www.jetbrains.com/webstorm/), 
 [Atom](https://atom.io/), 
-[Brackets](http://brackets.io/)
+[Brackets](http://brackets.io/), 
+[Notepad++](https://notepad-plus-plus.org/)
 * **Task-runner:** 
 [Gulp](http://gulpjs.com/),
 [Grunt](http://gruntjs.com/),
