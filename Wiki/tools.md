@@ -3,6 +3,8 @@
 [jQuery](https://jquery.com/), 
 [Angular](https://angularjs.org/), 
 [React](https://facebook.github.io/react/), 
+[Polymer](https://www.polymer-project.org/), 
+[Vue](https://vuejs.org/), 
 [Backbone](http://backbonejs.org/)([ru](http://backbonejs.ru/)), 
 [Meteor](https://www.meteor.com/)([ru](http://docs.meteor.com.ru/))
 * **Back-end:** 
@@ -60,9 +62,10 @@
 * **Бесплатные хостинги:** 
 [OpenShift](https://www.openshift.com), 
 [Heroku](https://www.heroku.com/)
-* **IDE/редактор:** 
+* **Кроссплатформенные IDE/редакторы:** 
 [WebStorm](https://www.jetbrains.com/webstorm/), 
 [Atom](https://atom.io/), 
+[Visual Studio Code](https://code.visualstudio.com/), 
 [Brackets](http://brackets.io/), 
 [Notepad++](https://notepad-plus-plus.org/)
 * **Task-runner:** 
