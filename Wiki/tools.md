@@ -80,8 +80,9 @@
 Список библиотек для браузерного Javascript
 <details> 
   <summary>Содержание</summary>
-  - Package Managers
-  - Loaders
+  
+  - Package Managers  
+  - Loaders  
   - Bundlers
   - Testing Frameworks
   - QA Tools
@@ -151,6 +152,7 @@
 Список библиотек для серверного Javascript
 <details> 
   <summary>Содержание</summary>
+  
   - Packages
   	- Mad science
   	- Command-line apps
@@ -219,6 +221,7 @@
 Большой список библиотек для Javascript
 <details> 
   <summary>Содержание</summary>
+  
   - Animation libraries
   - Application Frameworks
   - Async Control Flow Event Libraries
@@ -289,6 +292,7 @@
 Список с сортировкой на основе метрик гитхаба
 <details> 
   <summary>Содержание</summary>
+  
   - Animation
   - Application Tools
     - Frameworks
