@@ -14,7 +14,8 @@
 [Sails](http://sailsjs.org/),
 [Total](https://www.totaljs.com/),
 [Strapi](http://strapi.io/),
-[Hapi](http://hapijs.com/)
+[Hapi](http://hapijs.com/),
+[GraphQL](http://graphql.org/ "Язык запросов для облегчения разработки и использования API")
 * **Десктопные приложения:** 
 [NW.js](http://nwjs.io/), 
 [Electron](http://electron.atom.io/), 
