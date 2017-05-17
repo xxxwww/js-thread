@@ -40,7 +40,8 @@
 [Karma](https://karma-runner.github.io/)
 * **Continuous Integration:** 
 [Semaphore](https://semaphoreci.com/), 
-[Shippable](https://app.shippable.com/)
+[Shippable](https://app.shippable.com/),
+[Travis](https://travis-ci.com/)
 * **Auto deploy:**
 [Sanelotto](http://sanelotto.info/),
 [ShipIt](https://github.com/shipitjs/shipit/),
